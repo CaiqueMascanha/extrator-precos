@@ -56,6 +56,7 @@ class Extrair:
         }
 
         for i in range(1, numero_paginas + 1):
+
             print(f'Página: {i}')
             
             # Esperar que todos os elementos da página estejam carregados
