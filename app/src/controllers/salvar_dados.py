@@ -1,5 +1,5 @@
 import json
-from models.precos import Precos, Session
+from app.src.models.produtos import Produtos, Session
 
 class SalvarDados:
     

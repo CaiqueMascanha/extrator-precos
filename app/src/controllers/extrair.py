@@ -55,7 +55,9 @@ class Extrair:
             "Link": []
         }
 
-        for i in range(1, numero_paginas + 1):
+        # for i in range(1, numero_paginas + 1):
+        for i in range(2):
+        
 
             print(f'Página: {i}')
             
